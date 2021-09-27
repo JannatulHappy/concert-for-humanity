@@ -1,0 +1,17 @@
+.band img{
+    width:280px;
+    height:235px;
+    margin:15px auto;
+    border-radius: 10px;
+}
+.cart-button{
+        background-color:rgb(236, 181, 79);
+        padding: 8px 10px;
+        border-radius: 5px;
+        font-size: 18px;
+        font-weight: 700;
+        color:rgb(241, 235, 235);
+        border : 1px solid rgb(233, 163, 33);
+        cursor: pointer;
+        margin: 10px 50px;
+}
