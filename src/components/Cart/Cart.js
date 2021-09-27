@@ -1,10 +1,12 @@
 import React from 'react';
 import './Cart.css'
+// cart
 const Cart = (props) => {
     const {cart} = props;
-    console.log(cart)
+    // update total cost
     const total = cart.reduce((previous, band)=>previous+ band.ticketPrice,0)
     return (
+        // cart
         <div className="cart text-white ms-5">
            <h5>Ticket : {props.cart.length}</h5> 
             <br></br>
