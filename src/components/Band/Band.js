@@ -2,8 +2,10 @@ import React from 'react';
 import './Band.css'
 
 const Band = (props) => {
+    // desturcring nesserary property
     const {name,date,time,place,img,ticketPrice} = props.band
     return (
+        // showing each band in wesite with 3 column
         <div className="col text-center">
             <div className="card h-100 band">
                 <img src={img} className="card-img-top  " alt="..."/>
@@ -15,8 +17,9 @@ const Band = (props) => {
                     <h6 className="card-text fs-6">place: {place}</h6>
                     
                 </div>
-                <div className="">
-                    <button onClick={()=>props.handleAddtoCart(props.band)}className="cart-button"><i class="fas fa-heart me-2"></i>Get Tickets Now</button>
+                {/* get ticket now button nd icon */}
+                <div >
+                    <button onClick={()=>props.handleAddtoCart(props.band)}className="cart-button"><i class="fas fa-heart me-2"></i>Get Ticket Now</button>
                     <p><i class="fab fa-facebook-square"></i><i class="fab fa-twitter-square"></i><i class="fab fa-instagram-square"></i><i class="fab fa-facebook-messenger"></i></p>
                 </div>
             </div>

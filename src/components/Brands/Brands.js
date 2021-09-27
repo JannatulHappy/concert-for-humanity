@@ -11,11 +11,13 @@ const Brands = () => {
         .then(res=>res.json())
         .then(data=>setBands(data))
     },[])
+    // get ticket now button
     const handleAddtoCart = product=>{
         const newCart = [...cart,product]
         setCart(newCart)
     }
     return (
+        //  band container
         <div className="bands mb-5 row g-4">
             <div className="col-md-9">
             <div className="row row-cols-1 row-cols-md-3 g-4 ">
@@ -24,6 +26,7 @@ const Brands = () => {
              }
             </div>
             </div>
+            {/*  cart container*/}
             <div className="col-md-3 cart-container">
                 <Cart cart={cart}></Cart>
             </div>
