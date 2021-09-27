@@ -1,0 +1,11 @@
+.cart{
+    background-color: #6b3044;
+    opacity: 0.89;
+    padding: 12px 15px;
+    border-radius:5px;
+}
+.click{
+    background-color: rgb(20, 12, 12);
+    margin: 8px 0px;
+    padding: 0px;
+}

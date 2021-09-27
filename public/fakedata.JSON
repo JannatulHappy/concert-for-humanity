@@ -1,28 +1,27 @@
-[
-    {
-      "name": "Artcell",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "https://img.discogs.com/wJdKgiQOxkkI8bkhtVddg-U-XXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2316103-1514032377-1218.jpeg.jpg",
-      "place": "University of Chittagong",
-      "ticketPrice": 250
-    },
-    {
-      "name": "Warfaze",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "https://media-eng.dhakatribune.com/uploads/2014/10/12-n10638775831_2452328_4568977.jpg",
-      "place": "Bangladesh University of Engineering and Technology",
-      "ticketPrice": 250
-    },
-    {
-      "name": "Aurthohin",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "https://www.partymap.in/band-aurthohin/band-aurthohin.jpg",
-      "place": "Shahjalal University of Science and Technology",
-      "ticketPrice": 250
-    },
+[    {
+  "name": "Artcell",
+  "date": "Saturday November 7th",
+  "time": "7:00 - 9:00 PM",
+  "img": "https://img.discogs.com/wJdKgiQOxkkI8bkhtVddg-U-XXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2316103-1514032377-1218.jpeg.jpg",
+  "place": "University of Chittagong",
+  "ticketPrice": 250
+},
+{
+  "name": "Warfaze",
+  "date": "Saturday November 7th",
+  "time": "7:00 - 9:00 PM",
+  "img": "https://media-eng.dhakatribune.com/uploads/2014/10/12-n10638775831_2452328_4568977.jpg",
+  "place": "Bangladesh University of Engineering and Technology",
+  "ticketPrice": 250
+},
+{
+  "name": "Miles",
+  "date": "Saturday November 7th",
+  "time": "7:00 - 9:00 PM",
+  "img": "https://media-eng.dhakatribune.com/uploads/2019/08/miles-web-1564662547228.gif",
+  "place": "Bangladesh University of Engineering and Technology",
+  "ticketPrice": 250
+},
     {
       "name": "Shironamhin",
       "date": "Saturday November 7th",
@@ -31,36 +30,13 @@
       "place": "Chittagong University of Engineering and Technology",
       "ticketPrice": 250
     },
-    {
-      "name": "Souls",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "http://soulsbd.com/wp-content/uploads/2019/03/IMG_9204-1920.jpg",
-      "place": "Asian University for Women",
-      "ticketPrice": 250
-    },
+    
     {
       "name": "Black",
       "date": "Saturday November 7th",
       "time": "7:00 - 9:00 PM",
       "img": "https://upload.wikimedia.org/wikipedia/en/2/23/Black_abar_1.jpg",
       "place": "University of Dhaka",
-      "ticketPrice": 250
-    },
-    {
-      "name": "Love Runs Blind(LRB)",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "https://media-eng.dhakatribune.com/uploads/2014/03/12-LRB.jpg",
-      "place": "University of Rajshahi",
-      "ticketPrice": 250
-    },
-    {
-      "name": "Miles",
-      "date": "Saturday November 7th",
-      "time": "7:00 - 9:00 PM",
-      "img": "https://media-eng.dhakatribune.com/uploads/2019/08/miles-web-1564662547228.gif",
-      "place": "Bangladesh University of Engineering and Technology",
       "ticketPrice": 250
     },
     {
@@ -71,6 +47,33 @@
       "place": "BRAC University",
       "ticketPrice": 250
     },
+    {
+      "name": "Aurthohin",
+      "date": "Saturday November 7th",
+      "time": "7:00 - 9:00 PM",
+      "img": "https://www.partymap.in/band-aurthohin/band-aurthohin.jpg",
+      "place": "Shahjalal University of Science and Technology",
+      "ticketPrice": 250
+    },
+    
+    {
+      "name": "Souls",
+      "date": "Saturday November 7th",
+      "time": "7:00 - 9:00 PM",
+      "img": "http://soulsbd.com/wp-content/uploads/2019/03/IMG_9204-1920.jpg",
+      "place": "Asian University for Women",
+      "ticketPrice": 250
+    },
+    
+    {
+      "name": "Love Runs Blind(LRB)",
+      "date": "Saturday November 7th",
+      "time": "7:00 - 9:00 PM",
+      "img": "https://media-eng.dhakatribune.com/uploads/2014/03/12-LRB.jpg",
+      "place": "University of Rajshahi",
+      "ticketPrice": 250
+    },
+    
     {
       "name": "Cryptic Fate",
       "date": "Saturday November 7th",

@@ -1,17 +1,27 @@
 .band img{
-    width:280px;
+    width:281px;
     height:235px;
     margin:15px auto;
-    border-radius: 10px;
+    border-radius: 8px;
+}
+.band{
+    background-color: #814257;
+    opacity: 0.89;
+    color:rgb(248, 247, 247);
+    font-weight: 500;
 }
 .cart-button{
-        background-color:rgb(236, 181, 79);
+        background-color:#1b1016;
         padding: 8px 10px;
         border-radius: 5px;
         font-size: 18px;
-        font-weight: 700;
-        color:rgb(241, 235, 235);
-        border : 1px solid rgb(233, 163, 33);
+        font-weight: 500;
+        color:rgb(230, 221, 221);
+        border : 1px solid #0d1314;
         cursor: pointer;
         margin: 10px 50px;
+}
+.fab{
+    margin: 5px;
+    font-size: 25px;
 }
