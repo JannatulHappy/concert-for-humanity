@@ -14,7 +14,7 @@ const Band = (props) => {
                     <p className="card-text">Date : {date}</p>
                     <p className="card-text">Time : {time}</p>
                     <p className="card-text">Ticket  Price : {ticketPrice}</p>
-                    <h6 className="card-text fs-6">place: {place}</h6>
+                    <h6 className="card-text fs-6">place : {place}</h6>
                     
                 </div>
                 {/* get ticket now button nd icon */}
